@@ -1,6 +1,22 @@
-# Anti-rejectionProposalPrank.github.io
-You can't say no to this proposal.                                                                                                                                       
+# Proposal Page - Ali Kamal Edition
 
-Visit link here: https://andrejarl.github.io/Anti-rejectionProposalPrank.github.io/proposal.html
-# Website Preview 
-![image](https://user-images.githubusercontent.com/104331025/233835094-89883a1e-d881-485f-933d-53adf6f938c4.png)
+This is a fun and interactive proposal prank webpage inspired by the original Anti-rejection Proposal.  
+All credits go to the original creator, with personal modifications by **Ali Kamal**.
+
+## Live Website
+Click here to see it live:  
+[https://alig577.github.io/](https://alig577.github.io/)
+
+## Features
+- Moving "NO" images
+- Cute animation and audio
+- Funny and heartwarming proposal
+- Personalized with **Ali Kamal** as the creator
+
+## How to use
+1. Fork or download this repository.
+2. Edit `proposal.html` to change names or images.
+3. Host it using GitHub Pages or open the file locally.
+
+## Created by
+**Ali Kamal**
